@@ -1,2 +1,2 @@
 # hello-world
-antoher hello-world repo
+another hello-world repo
